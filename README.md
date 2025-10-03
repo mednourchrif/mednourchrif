@@ -99,7 +99,3 @@ I'm an IT Engineering Student at ESPRIT and a Computer Science graduate. My pass
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github.com/mednourchrif/mednourchrif/blob/output/github-contribution-grid-snake.svg" alt="snek" />
-</div>
