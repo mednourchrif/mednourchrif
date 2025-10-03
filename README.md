@@ -17,7 +17,7 @@ I'm an IT Engineering Student at ESPRIT and a Computer Science graduate. My pass
 - 🎮 I'm also a **FiveM scripter**, creating resources and tools with Lua.
 - 🛢️ I am proficient in **SQL and managing relational databases** like MySQL.
 - 🌱 I’m currently learning more about the **Symfony framework for backend development**.
-- 📫 How to reach me: [**LinkedIn - Mohamed Nour Chrif**](https://www.linkedin.com/in/mohamed-nour-chrif-840472331/)
+- 📫 How to reach me: [**LinkedIn - Mohamed Nour Chrif**](https://www.linkedin.com/in/mohamed-nour-cherif)
 
 ---
 
