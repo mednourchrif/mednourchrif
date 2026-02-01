@@ -1,25 +1,94 @@
-# 👋 Hi, I'm Mohamed Nour Cherif
+# 👋 Hi, I'm Mohamed Nour Cherif  
 
 <div align="center">
-  <h3>IT Engineering Student | Full-Stack Developer | Tech Enthusiast</h3>
-  <p>I build robust and user-friendly applications from concept to deployment.</p>
+  <h3>IT Engineering Student | Aspiring Software Engineer | Full-Stack Developer</h3>
+  <p>Motivated junior developer focused on building reliable, scalable, and well-structured software.</p>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&width=600&lines=IT+Engineering+Student+@+ESPRIT;Full-Stack+Web+%26+Mobile+Developer;FiveM+Scripter+%26+Tech+Enthusiast;Passionate+About+Building+Things+That+Work!" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8BE9FD&center=true&vCenter=true&width=700&lines=IT+Engineering+Student+@+ESPRIT;Junior+Full-Stack+Developer;AI+%26+Business-Oriented+Projects;Eager+to+Learn+and+Contribute" 
+    alt="Typing Animation" 
+  />
 </p>
 
 ---
 
-### ✨ About Me
+## ✨ About Me
 
-I'm an **IT Engineering Student at ESPRIT** on a mission to turn complex problems into elegant, user-friendly software. My passion lies in the entire development lifecycle—from sketching out an idea on a whiteboard to deploying a scalable, production-ready application. Whether it's a dynamic web platform, a cross-platform mobile app, or a custom script for a gaming server, I thrive on building things that work and make an impact.
+I’m an **IT Engineering Student at ESPRIT** actively seeking **internship or junior software engineering opportunities**.
 
-- 💻 Building **full-stack applications** with a focus on clean architecture and performance.
-- 🎮 Crafting immersive experiences as a **FiveM Lua developer**.
-- 🛢️ Designing and managing efficient **relational databases** (MySQL).
-- 🌱 Always learning and currently diving deeper into the **Symfony framework**.
-- 🤝 A firm believer in teamwork, collaboration, and continuous improvement.
+I have hands-on experience building **full-stack web applications**, integrating **AI-powered features**, and designing systems that solve **real business problems**. I enjoy working across the entire development lifecycle — from system design and database modeling to backend logic, frontend implementation, and deployment.
+
+I’m curious, disciplined, and motivated to grow into a strong professional software engineer.
+
+### What Defines Me
+- 💻 Solid **computer science & software engineering fundamentals**
+- ⚙️ Strong understanding of **OOP, MVC, REST APIs**
+- 🧠 Interest in **system design & backend architecture**
+- 🧪 Focus on **clean, maintainable code**
+- 🤝 Team-oriented with good communication skills
+- 🌱 Fast learner who adapts quickly to new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+| Category | Technologies |
+|--------|--------------|
+| **Backend** | Python, PHP, Symfony, Java, Spring, Node.js |
+| **Frontend** | JavaScript, TypeScript, React, Angular, HTML, CSS |
+| **Database** | MySQL |
+| **AI / Automation** | AI chatbot integration, API-based AI services |
+| **Gaming / Scripting** | Lua (FiveM) |
+| **Tools & DevOps** | Git, GitHub, Docker, VS Code |
+
+---
+
+## 🚀 Academic & Personal Projects
+
+> 🔐 Repositories are private. I’m happy to discuss architecture, design decisions, and challenges.
+
+| Project | Description | Technologies |
+|-------|-------------|--------------|
+| **Tender & Market Management Platform** | Designed and developed a web platform for **gestion des appels d’offres et suivi de marché**. Features include tender lifecycle management, real-time messaging, and an **AI-powered chatbot** to assist users with information retrieval and decision support. Focused on modular backend architecture and clean API design. | React, Python, REST APIs |
+| **Full-Stack Web Platform** | Developed a secure CRUD application with authentication, role-based access, administrative dashboard, and analytics. Emphasis on scalability, security, and maintainable architecture. | PHP, Symfony, MySQL, React |
+| **FiveM Server Systems** | Built custom gameplay systems including economy management, gang logic, and interactive player features. Optimized Lua scripts for performance and server stability. | Lua, JavaScript, QBCore |
+
+---
+
+## 🎯 Why Hire Me?
+
+I may be a junior, but I bring the **mindset and discipline of a professional engineer**.
+
+- ✅ **End-to-end project experience** on real-world applications
+- 🤖 **Practical AI integration** in business-oriented systems
+- 🧠 Strong foundation in **engineering principles**
+- 🧼 Clean, structured, and maintainable code practices
+- 🚀 High learning velocity and adaptability
+- 🤝 Reliable team player who communicates clearly
+
+I’m looking for an environment where I can **contribute from day one**, learn from experienced engineers, and grow into a strong software developer.
+
+---
+
+## 🌱 Currently Learning & Improving
+
+- ⚡ **Advanced Symfony** (security, Doctrine optimization, API Platform)
+- ☁️ **Docker & DevOps fundamentals**
+- 🧩 **System architecture & performance optimization**
+- 🔐 Secure authentication & authorization patterns
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Coding-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-blueviolet?style=for-the-badge" />
+</p>
+
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-nour-cherif">
@@ -33,59 +102,10 @@ I'm an **IT Engineering Student at ESPRIT** on a mission to turn complex problem
   </a>
 </p>
 
----
-
-### 🛠️ My Tech Stack
-
-A collection of tools and technologies I use to bring ideas to life:
-
-| Category  | Technologies |
-|---|---|
-| **Backend** | <p align="left"> <img src="https://skillicons.dev/icons?i=php,symfony,python,nodejs,java,spring,c,cpp" /> </p> |
-| **Frontend**| <p align="left"> <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,tailwind,bootstrap" /> </p> |
-| **Database** | <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p> |
-| **Gaming** | <p align="left"> <img src="https://skillicons.dev/icons?i=lua" /> </p> |
-| **Tools & DevOps** | <p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </p> |
-
----
-
-### 🚀 My Featured Projects
-
-Here are a couple of projects I'm proud of. The source code is kept private, but I'm happy to discuss the architecture and my contributions.
-
-| Project | Description | Tech Stack & Status |
-|---|---|---|
-| **Full-Stack Web Platform** | A complete CRUD application featuring user authentication, an administrative dashboard, and a data analytics panel. Built with scalability and security in mind. | <p align="left"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </p> <p> 🔐 **Private Repository** </p> |
-| **FiveM Resource Pack** | A collection of custom Lua scripts to enhance server gameplay. Features an advanced economy system, gang management tools, and custom player interactions. | <p align="left"> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/> <img src="https://img.shields.io/badge/QBCore-93C03F?style=for-the-badge&logo=lua&logoColor=white" alt="QBCore"/> </p> <p> 🔐 **Private Repository** </p> |
-
----
-
-### 📊 My GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mednourchrif&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednourchrif&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mednourchrif&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🌱 My Current Focus
-
-I'm dedicated to continuous learning and am currently focused on:
-
-- ⚡ Mastering **Advanced Symfony** features like API Platform, Doctrine optimizations, and security components.
-- ☁️ Exploring **Docker & DevOps** practices to streamline my development and deployment workflows.
-- 🧩 Deepening my understanding of **System Architecture** patterns and performance tuning.
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mednourchrif&style=for-the-badge&color=ff79c6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mednourchrif&style=for-the-badge&color=ff79c6" />
 </p>
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>“First, solve the problem. Then, write the code.” – John Johnson</i>
 </p>
